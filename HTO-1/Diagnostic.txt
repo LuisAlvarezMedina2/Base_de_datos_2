@@ -1,0 +1,11 @@
+Que es una base de datos relacional: 
+
+R. una base de datos relacional es aquella base de datos que esta relacionada mediante tablas.
+
+Que es DML:
+
+R. lenguaje de manipulacion de datos , Utilizando instrucciones de SQL, permite a los usuarios introducir datos para posteriormente realizar tareas de consultas o modificación de los datos que contienen las Bases de Datos.
+
+Que es DDL:
+
+R. lenguaje de definicion de datos, es una biblioteca que contiene código y datos que pueden usar más de un programa al mismo tiempo
