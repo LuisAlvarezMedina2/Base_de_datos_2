@@ -27,7 +27,7 @@
   - ##### Laboratorio3 : [Repositorio Del Laboratorio 3](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/tree/main/Hito%203/Laboratorios/Lab3)📁⚆_⚆
   - ##### Laboratorio4 : [Repositorio Del Laboratorio 4](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/tree/main/Hito%203/Laboratorios/Lab4)📁⚆_⚆
 - #### Procesual : [Repositorio De la Evaluacion Procesual](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/tree/main/Hito%203/Procesual)📁⚆_⚆
-  - ##### Video : [Video Procesua Hito 2](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/blob/main/Hito%203/Procesual/videoProcesual.txt) 📺
+  - ##### Video : [Video Procesua Hito 3](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/blob/main/Hito%203/Procesual/videoProcesual.txt) 📺
   - ##### Documento : [Presentacion](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/blob/main/Hito%203/Procesual/EVALUACION%20PROCESUAL%20HITO%203.pdf)📄
 - #### DefensaHito3 : [Repositorio de la Evaluacion Continua hito3](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/tree/main/Hito%203/defensaHIto3)📁⚆_⚆
 
@@ -38,7 +38,7 @@
   - ##### Laboratorio2 : [Repositorio Del Laboratorio 2](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/tree/main/Hito%204/Laboratorios/Lab2)📁⚆_⚆
   - ##### Laboratorio3 : [Repositorio Del Laboratorio 3](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/tree/main/Hito%204/Laboratorios/Lab3)📁⚆_⚆
 - #### Procesual : [Repositorio De la Evaluacion Procesual](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/tree/main/Hito%204/Procesual)📁⚆_⚆
-  - ##### Video : [Video Procesua Hito 2l](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/blob/main/Hito%204/Procesual/VideoProcesual.txt) 📺
+  - ##### Video : [Video Procesua Hito 4](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/blob/main/Hito%204/Procesual/VideoProcesual.txt) 📺
   - ##### Documento : [Presentacion](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/blob/main/Hito%204/Procesual/Evaluacion%20Procesual%20Hito%204.pdf)📄
   - #### DefensaHito4 : [Repositorio de la Evaluacion Continua hito4](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/tree/main/Hito%204/DefensaHito4)📁⚆_⚆
 
