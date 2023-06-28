@@ -43,6 +43,6 @@
   - #### DefensaHito4 : [Repositorio de la Evaluacion Continua hito4](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/tree/main/Hito%204/DefensaHito4)📁⚆_⚆
 
 ## ༼ つ ◕_◕ ༽つ Hito 5
-###  ψ(._. )> Proyecto Final : [repositorio Proyecto final](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/tree/main/Hito5/Proyecto%20Final/Proyecto%20Final%20h5) 📁📄🔚
+###  ψ(._. )> Proyecto Final : [repositorio Proyecto final](https://github.com/LuisAlvarezMedina2/Base_de_datos_2/tree/main/Hito5/Proyecto%20Final) 📁📄🔚
 
 
